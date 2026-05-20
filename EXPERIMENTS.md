@@ -16,7 +16,7 @@ Isi tabel ini setelah selesai semua eksperimen.
 | 1 |  2      |    64     |     relu       |    sgd       |    0.01    |   32    |    10    |    0.0     |     85.87%      |     53.6s       |
 | 2 |   17    |     64    |      relu      |    sgd       |    0.01    |  32   |    10    |    0.0     |     84.38%     |      69.6s      |
 | 3 |    4    |     64    |     elu       |      sgd     |   0.01     |   32    |   10    |    0.0     |    85.91%      |     57.6s       |
-| 4 |        |         |            |           |        |       |        |         |          |            |
+| 4 |   3     |     128    |    elu        |      adamax     |     0.001   |    64   |   10     |    0.0     |     87.57%     |       49.6s     |
 | 5 |        |         |            |           |        |       |        |         |          |            |
 
 > **Eksperimen #0** = baseline (jangan ubah, ini patokan kalian).
