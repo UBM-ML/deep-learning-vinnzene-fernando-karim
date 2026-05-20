@@ -13,11 +13,11 @@ Isi tabel ini setelah selesai semua eksperimen.
 | # | Hidden | Neurons | Activation | Optimizer | LR     | Batch | Epochs | Dropout | Test Acc | Train Time |
 |---|--------|---------|------------|-----------|--------|-------|--------|---------|----------|------------|
 | 0 | 1      | 64      | relu       | sgd       | 0.01   | 32    | 10     | 0.0     | ~85%     | ~30s       |
-| 1 |  2      |    64     |     relu       |    sgd       |    0.01    |   32    |    10    |    0.0     |     85.87%      |     53.6s       |
-| 2 |   17    |     64    |      relu      |    sgd       |    0.01    |  32   |    10    |    0.0     |     84.38%     |      69.6s      |
-| 3 |    4    |     64    |     elu       |      sgd     |   0.01     |   32    |   10    |    0.0     |    85.91%      |     57.6s       |
-| 4 |   3     |     128    |    elu        |      adamax     |     0.001   |    64   |   10     |    0.0     |     87.57%     |       49.6s     |
-| 5 |   3     |    256     |    elu        |     adamax      |    0.01    |   64    |   10     |    0.0     |     88.09%     |     84.9 detik       |
+| 1 |   17    |     64    |      relu      |    sgd       |    0.01    |  32   |    10    |    0.0     |     84.38%     |      69.6s      |
+| 2 |    4    |     64    |     elu       |      sgd     |   0.01     |   32    |   10    |    0.0     |    85.91%      |     57.6s       |
+| 3 |   3     |     128    |    elu        |      adamax     |     0.001   |    64   |   10     |    0.0     |     87.57%     |       49.6s     |
+| 4 |   3     |    256     |    elu        |     adamax      |    0.01    |   64    |   10     |    0.0     |     88.09%     |     84.9s       |
+| 5 |   2     |    512     |    relu        |     adam      |    0.001    |   128    |   20     |    0.2     |     89.02%     |     179.3s       |
 
 > **Eksperimen #0** = baseline (jangan ubah, ini patokan kalian).
 
