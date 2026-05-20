@@ -8,10 +8,10 @@
 
 | Nama Lengkap | NIM | Role | GitHub Username |
 |---|---|---|---|
-|  |  | Lead / Coder |  |
-|  |  | Experiment logger |  |
-|  |  | Reflection writer |  |
-|  |  | Presenter |  |
+| Vinnzene Fernando Karim | 32230115 | Lead / Coder |  |
+| Hendy Tandika | 32230129 | Experiment logger | hendytandika-32230129 |
+| Steven Sebastian | 32230125 | Reflection writer |  |
+| Nici Andreas | 32230173 | Presenter |  |
 
 > Role di atas hanya saran agar pembagian kerja jelas — boleh disesuaikan dengan tim kalian.
 
